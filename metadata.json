@@ -1,0 +1,5 @@
+{
+  "name": "Kelime Detoksu",
+  "description": "A vocabulary learning app with flashcards and quizzes based on the Kelime Detoksu program.",
+  "requestFramePermissions": []
+}
